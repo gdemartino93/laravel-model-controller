@@ -22,10 +22,8 @@
         <td>{{ $movie["nationality"] }}</td>
         <td>{{ $movie["date"] }}</td>
         <td>{{ $movie["vote"] }}</td>
-
       </tr>
     @endforeach
-
     </tbody>
   </table>
    
