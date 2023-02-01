@@ -2,6 +2,6 @@
 
 @section('contents')
     <div>
-        <span> Contenuto del main</span>
+        <span>{{$nome}}</span>
     </div>
 @endsection
